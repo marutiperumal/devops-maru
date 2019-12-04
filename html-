@@ -22,7 +22,9 @@ font-size:30px;
 <h2>london</h2>
 <p>london is the capital city of england. 
 </article>
-
+<article>
+<h3>India</h3>
+<p> NewDelhi is the capital of india</p>
 <article>
 <h2>paris</h2>
 <p> paris is the capital  of france</p>
