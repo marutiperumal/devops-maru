@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>tab name</title>
+<script>document.createElement("boxname")</script>
+<style>
+boxname{
+display:block;
+background-color:#dddddd;
+padding:50px;
+font-size:30px;
+}
+</style>
+</head>
+<body>
+<h1>A Heading</h1>
+<boxname>typing inside mybox</boxname>
+<section>
+<h1>famous cities</h1>
+<article
+<h2>london</h2>
+<p>london is the capital city of england. 
+</article>
+
+<article>
+<h2>paris</h2>
+<p> paris is the capital  of france</p>
+</article>
+<article>
+<h3>tokyo</h3>
+<p> tokyo is the capital of japan </p>
+</article>
+</section>
+</body>
+</html>
